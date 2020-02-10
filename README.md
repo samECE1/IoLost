@@ -1,0 +1,2 @@
+# IoLost
+getPing
